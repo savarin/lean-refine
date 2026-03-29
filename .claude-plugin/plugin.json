@@ -1,0 +1,10 @@
+{
+  "name": "lean-refine",
+  "version": "0.1.0",
+  "description": "Autonomous code hardening via IES optimization",
+  "author": { "name": "savarin" },
+  "homepage": "https://github.com/savarin/lean-refine",
+  "repository": "https://github.com/savarin/lean-refine",
+  "license": "MIT",
+  "skills": "./skills/"
+}
